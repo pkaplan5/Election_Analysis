@@ -33,10 +33,12 @@ The winner of the election was:
 
 Diana DeGette who receved 73.8% of the vote and 272,892 votes.
 
-## Challenege Overview
+## Challenge Overview
+
+I was asked to use the csv file to read the election results and provide an aanalysis in a succint format.
 
 ## Challenge Summary
 
-
+I had some difficulty with vs code during my work on this assignment. My software was acting erractily and I had to reisntall all of vs code and the python extension. After doing that I had no diffuculty with this assignment.
 
 
