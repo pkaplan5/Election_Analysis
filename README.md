@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##project overview
+## Project Overview
 The board of elections for Colorado gave me the following tasks to complete for their election:
 
 1. Calculate the total votes in the election
@@ -9,11 +9,11 @@ The board of elections for Colorado gave me the following tasks to complete for 
 4. Calculate the percentage each candidate received.
 5. Determine the election winner.
 
-##resources
+## Resources
 Data source: election_results.csv
 Software: Python 3.912 Visual Studio Code 1.72.2
 
-##summary
+## Summary
 
 The analysis is as follows:
 
