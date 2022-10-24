@@ -35,10 +35,10 @@ Diana DeGette who receved 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
 
-I was asked to use the csv file to read the election results and provide an aanalysis in a succint format.
+I was asked to use the csv file to read the election results and provide an analysis in a specified format.
 
 ## Challenge Summary
 
-I had some difficulty with vs code during my work on this assignment. My software was acting erractily and I had to reisntall all of vs code and the python extension. After doing that I had no diffuculty with this assignment.
+I had some difficulty with vs code during my work on this assignment. My software was acting erractily and I had to reisntall all of vs code and the python extension. After doing that I had no difficulty with this assignment.
 
 
