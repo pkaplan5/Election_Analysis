@@ -10,7 +10,7 @@ The board of elections for Colorado gave me the following tasks to complete for 
 5. Determine the election winner.
 
 ## Resources
-Data source: election_results.csv
+Data source: election_results.csv <P></P>
 Software: Python 3.912 Visual Studio Code 1.72.2
 
 ## Summary
@@ -19,15 +19,15 @@ The analysis is as follows:
 
 The candidates were:
 
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
+Charles Casper Stockham <P></P>
+Diana DeGette <P></P>
+Raymon Anthony Doane <P></P>
 
 The candidate results were:
 
-Charles Casper Stockham: 23.0% of the vote and 85,213 votes.
-Diana DeGette: 73.8% of the vote and 272,892.
-Raymon Anthony Doane: 3.1% of the vote and 11,606 votes.
+Charles Casper Stockham: 23.0% of the vote and 85,213 votes. <P></P>
+Diana DeGette: 73.8% of the vote and 272,892. <P></P>
+Raymon Anthony Doane: 3.1% of the vote and 11,606 votes. <P></P>
 
 The winner of the election was:
 
