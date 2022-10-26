@@ -51,7 +51,7 @@ Diana DeGette who receved 73.8% of the vote and 272,892 votes.
 Election-Audit Summary: 
 <P></P>
 
-This script can be used for numerous projects in the future. It can definitely be re-purposed for other elections going forward but also for any project where items need to be tabulated and determined what percentage they accounted for of the whole amount measured. If the Colorado government would like to know how many people got their vaccination by county it can be used for this purpose. The totals by county can be provided with descriptive statistics.
+This script can be used for numerous projects in the future. It can definitely be re-purposed for other elections going forward but also for any project where items need to be tabulated and determined what percentage they accounted for of the whole amount measured. If the Colorado government would like to know how many people got their vaccination by county it can be used for this purpose. The totals by county can be provided with descriptive statistics. In addition, if the Colorado governemtn woudl liek to know library membership statistics to help counties boost their reading rates, the script can be used with some modification as well.
 
 
 ## Challenge Overview
