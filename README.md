@@ -53,13 +53,13 @@ Election-Audit Summary:
 
 This scriopt can be used for numerous projects in the future. It can definitely be re-purposed for other elections going forward but also for any project where items need to be tabulated and determined what percentage they accounted for of the whole amount measured. If the Colorado government would like to know how many people got their vaccination by county it can be used for this purpose. The totals by county can be provided with descriptive statistics.
 
-<P></P>
+
 ## Challenge Overview
-<P></P>
+
 I was asked to use the csv file to read the election results and provide an analysis in the specified format given in the module to a text file and displyed to the terminal in VS Code.
-<P></P>
+
 ## Challenge Summary
-<P></P>
+
 I had some difficulty with vs code during my work on this assignment. My software was acting erractily and I had to reisntall all of vs code and the python extension. After doing that I had no difficulty with this assignment. 
 
 
