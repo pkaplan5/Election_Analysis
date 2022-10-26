@@ -29,17 +29,17 @@ Election-Audit Results:
 
 By county the votes were:
 
-*Jefferson with 10.5% votes casted of the total election votes with 38,855 votes
-*Denver with 82.8% votes casted of the total election votes with 06,055 votes
-*Arapahoe with 6.7% votes casted of the total election votes with 24,801 votes in the election.
+* Jefferson with 10.5% votes casted of the total election votes with 38,855 votes
+* Denver with 82.8% votes casted of the total election votes with 06,055 votes
+* Arapahoe with 6.7% votes casted of the total election votes with 24,801 votes in the election.
 
-*The largest turn-out was with Denver county with 82.8% of the votes casted of the election.
+* The largest turn-out was with Denver county with 82.8% of the votes casted of the election.
 
 The candidate results were:
 
-*Charles Casper Stockham: 23.0% of the vote and 85,213 votes. <P></P>
-*Diana DeGette: 73.8% of the vote and 272,892. <P></P>
-*Raymon Anthony Doane: 3.1% of the vote and 11,606 votes. <P></P>
+* Charles Casper Stockham: 23.0% of the vote and 85,213 votes. <P></P>
+* Diana DeGette: 73.8% of the vote and 272,892. <P></P>
+* Raymon Anthony Doane: 3.1% of the vote and 11,606 votes. <P></P>
 
 The winner of the election was:
 <P></P>
